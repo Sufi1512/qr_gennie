@@ -1,0 +1,31 @@
+name: qr_gennie
+description: A Flutter app for generating and scanning QR codes with email functionality.
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=3.0.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  qr_flutter: ^4.1.0
+  mobile_scanner: ^5.1.1
+  url_launcher: ^6.3.0
+  share_plus: ^10.0.0
+  pretty_qr_code: ^3.4.0
+  path_provider: ^2.1.1
+  cross_file: ^0.3.3+4
+  image_picker: ^1.1.0
+  flutter_email_sender: ^6.0.0  # Added for email with attachment
+  cupertino_icons: ^1.0.8
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^4.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/icon.png
