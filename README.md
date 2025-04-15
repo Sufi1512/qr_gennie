@@ -100,5 +100,5 @@ For suggestions, issues or collaborations, feel free to connect with the develop
 
 **Sufiyan**  
 Final Year AI & Data Science Student  
-🌐 [Portfolio](https://gcafsufiyan.netlify.app)  
-📧 sufiyandev@gmail.com
+🌐 [Portfolio](sufiyankhan.tech)  
+📧 connect.sufiyan@gmail.com
